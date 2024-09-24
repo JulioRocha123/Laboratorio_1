@@ -3,9 +3,9 @@ Julio Rocha
 Liceth Rodruiguez
 Marcy Castro
 """
-#se importa la libreria math
+#se importa la libreria math 
 import math
-#se definen las variables fijas del primer punto
+#se definen las variables fijas del primer punto del reto1
 eficienciaP = 0.15
 radiacionS = 5
 Apanel = 1.6
